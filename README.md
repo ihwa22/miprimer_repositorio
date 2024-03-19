@@ -1,4 +1,4 @@
-# miprimer_repositorio
+# repositorio1
 Iniciando en el mundo de la programacion
 
 ## descripciòn
